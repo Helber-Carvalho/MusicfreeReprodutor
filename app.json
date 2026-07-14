@@ -6,6 +6,7 @@
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
     "jsEngine": "jsc",
+    "scheme": "musicapp",
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.musicapp"
@@ -15,6 +16,9 @@
         "backgroundColor": "#121212"
       },
       "package": "com.musicapp"
-    }
+    },
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
