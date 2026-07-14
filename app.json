@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "MusicApp",
+    "slug": "MusicApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "jsEngine": "jsc",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.musicapp"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#121212"
+      },
+      "package": "com.musicapp"
+    }
+  }
+}
